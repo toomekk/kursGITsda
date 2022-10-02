@@ -1,1 +1,2 @@
 Zmiany w funkcjonalności kodu A.
+Druga zmiana w funkcjonalności kodu A.
